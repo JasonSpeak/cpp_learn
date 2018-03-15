@@ -1,0 +1,10 @@
+/home/minileft/dotnetcore/dotnetcoretest1/bin/Debug/netcoreapp2.0/dotnetcoretest1.deps.json
+/home/minileft/dotnetcore/dotnetcoretest1/bin/Debug/netcoreapp2.0/dotnetcoretest1.runtimeconfig.json
+/home/minileft/dotnetcore/dotnetcoretest1/bin/Debug/netcoreapp2.0/dotnetcoretest1.runtimeconfig.dev.json
+/home/minileft/dotnetcore/dotnetcoretest1/bin/Debug/netcoreapp2.0/dotnetcoretest1.dll
+/home/minileft/dotnetcore/dotnetcoretest1/bin/Debug/netcoreapp2.0/dotnetcoretest1.pdb
+/home/minileft/dotnetcore/dotnetcoretest1/obj/Debug/netcoreapp2.0/dotnetcoretest1.csproj.CoreCompileInputs.cache
+/home/minileft/dotnetcore/dotnetcoretest1/obj/Debug/netcoreapp2.0/dotnetcoretest1.AssemblyInfoInputs.cache
+/home/minileft/dotnetcore/dotnetcoretest1/obj/Debug/netcoreapp2.0/dotnetcoretest1.AssemblyInfo.cs
+/home/minileft/dotnetcore/dotnetcoretest1/obj/Debug/netcoreapp2.0/dotnetcoretest1.dll
+/home/minileft/dotnetcore/dotnetcoretest1/obj/Debug/netcoreapp2.0/dotnetcoretest1.pdb
