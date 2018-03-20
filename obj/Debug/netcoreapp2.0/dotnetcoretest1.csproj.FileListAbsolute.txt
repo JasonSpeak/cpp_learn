@@ -8,3 +8,13 @@
 /home/minileft/dotnetcore/dotnetcoretest1/obj/Debug/netcoreapp2.0/dotnetcoretest1.AssemblyInfo.cs
 /home/minileft/dotnetcore/dotnetcoretest1/obj/Debug/netcoreapp2.0/dotnetcoretest1.dll
 /home/minileft/dotnetcore/dotnetcoretest1/obj/Debug/netcoreapp2.0/dotnetcoretest1.pdb
+C:\Users\Administrator\Desktop\sqwGitFile\databaseHW\bin\Debug\netcoreapp2.0\dotnetcoretest1.deps.json
+C:\Users\Administrator\Desktop\sqwGitFile\databaseHW\bin\Debug\netcoreapp2.0\dotnetcoretest1.runtimeconfig.json
+C:\Users\Administrator\Desktop\sqwGitFile\databaseHW\bin\Debug\netcoreapp2.0\dotnetcoretest1.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\sqwGitFile\databaseHW\bin\Debug\netcoreapp2.0\dotnetcoretest1.dll
+C:\Users\Administrator\Desktop\sqwGitFile\databaseHW\bin\Debug\netcoreapp2.0\dotnetcoretest1.pdb
+C:\Users\Administrator\Desktop\sqwGitFile\databaseHW\obj\Debug\netcoreapp2.0\dotnetcoretest1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\sqwGitFile\databaseHW\obj\Debug\netcoreapp2.0\dotnetcoretest1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\sqwGitFile\databaseHW\obj\Debug\netcoreapp2.0\dotnetcoretest1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\sqwGitFile\databaseHW\obj\Debug\netcoreapp2.0\dotnetcoretest1.dll
+C:\Users\Administrator\Desktop\sqwGitFile\databaseHW\obj\Debug\netcoreapp2.0\dotnetcoretest1.pdb

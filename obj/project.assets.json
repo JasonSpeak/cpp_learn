@@ -13269,11 +13269,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Administrator\\Desktop\\sqwGitFile\\databaseHW\\dotnetcoretest1.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\sqwGitFile\\databaseHW\\dotnetcoretest1.csproj",
       "projectName": "dotnetcoretest1",
-      "projectPath": "c:\\Users\\Administrator\\Desktop\\sqwGitFile\\databaseHW\\dotnetcoretest1.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\sqwGitFile\\databaseHW\\dotnetcoretest1.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Administrator\\Desktop\\sqwGitFile\\databaseHW\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\sqwGitFile\\databaseHW\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
