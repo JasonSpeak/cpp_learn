@@ -1,0 +1,10 @@
+@{
+    ViewData["Title"] = "注册失败！";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>
+    5秒后回到<a href="/Home"><span style="color:#428bca">首页</span></a>．．．
+</h3>
+<script type="text/javascript">
+    setTimeout(window.location.href='/Home/SignUp',5);
+</script>
