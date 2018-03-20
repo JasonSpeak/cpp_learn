@@ -93,13 +93,38 @@ namespace dotnetcoretest1.Controllers
             return View();
         }
 
+
+        #region 登陆模块
         public IActionResult SignIn()
         {
-            ViewBag.message="使用您的账号登入jobskyHotal";
             return View();
         }
 
-        
+        [HttpPost]
+        public IActionResult SignIn(SignInModel model)
+        {
+            //验证模型是否正确
+            if (!ModelState.IsValid)
+            {
+                return View(model);
+            }
+            string str = "select userPw from user where userName='" + model.userName + "';";
+            DataTable dt = getdataTable(str);
+            object obj = dt.Rows[0][0];
+            string pw = obj.ToString();
+            if(pw==model.userPw)
+            {
+                
+                return Redirect("/");
+            }
+            else
+            {
+                return View();
+            }
+        }
+
+        #endregion
+
         #region 注册模块
         public IActionResult SignUp()
         {

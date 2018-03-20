@@ -1,5 +1,51 @@
 @{
     ViewData["Title"] = "登陆";
+    ViewBag.message="使用您的账号登入jobskyHotal";
 }
+@model dotnetcoretest1.Models.SignInModel
 <h2>@ViewData["Title"]</h2>
 <h3>@ViewBag.message</h3>
+<div class="container">
+    <div class="col-lg-4 col-md-6 col-sm-12">
+        <form asp-controller="Home" asp-action="SignIn" method="POST">
+            <table>
+                <tr>
+                    <td>
+                        <div class="input-group" style="margin-top: 10px">
+                            <span class="input-group-addon">昵称</span>
+                            <input type="text" asp-for="userName" class="form-control"> 
+                        </div>
+                    </td>
+                    <td>
+                        <div style="margin-left: 10px">
+                            <span style="color:red" asp-validation-for="userName"></span>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="input-group" style="margin-top: 10px">
+                            <span class="input-group-addon">密码</span>
+                            <input type="text" asp-for="userPw" class="form-control">
+                        </div>
+                    </td>
+                    <td>
+                        <div style="margin-left: 10px">
+                            <span style="color:red" asp-validation-for="userPw"></span>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p style="margin-top: 10px"> 
+                            <button type="submit" class="btn btn-default btn-success">注　册</button>
+                        </p>
+                    </td>
+                    <td>
+
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</div>
