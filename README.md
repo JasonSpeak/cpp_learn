@@ -1,6 +1,6 @@
-#Study notes
+# Study notes
 
-###**Sorting Algorithms with cpp**
+### **Sorting Algorithms with cpp**
 
 - BubbleSort
 - Quicksort
